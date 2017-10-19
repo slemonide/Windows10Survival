@@ -1,0 +1,9 @@
+Open cmd under admin.
+
+Type:
+
+`netsh`
+
+`Winsock reset`
+
+reboot
