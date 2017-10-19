@@ -1,0 +1,3 @@
+Happens when you try to login.
+
+To fix, reboot in the safe mode and run `net user UserName NewPassword` in the cmd under admin
