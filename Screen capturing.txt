@@ -1,0 +1,15 @@
+There are many shortcuts/tools you can use to capture your screen.
+
+1) Press Windows Key + PrtSc to take a screenshot of your screen.
+The pictures should be saved in This PC > Pictures > Screenshot
+
+2) Use the 'Snipping Tool'. 
+This should come installed with Windows 10 and can be found in the start menu.
+You can use this tool to capture specific parts of a screen.
+
+3) Use the 'Game bar'
+The game bar is an Xbox app that allows you to record or broadcast your screen.
+(You may need to enable this tool first in your settings)
+Although it's meant for games you can use it to record your screen for anything.
+Press Windows + Alt + R to start recording and press it again to stop recording.
+Your files should be saved in This PC > Videos > Captures
